@@ -1,0 +1,10 @@
+﻿  Player.cpp
+Player.cpp(129): warning C4553: '==': operator has no effect; did you intend '='?
+  Source.cpp
+  Generating code
+  2 of 246 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Statki.vcxproj -> C:\Users\Kuba\Documents\Visual Studio 2015\Projects\eLearning\Release\Statki.exe
+  Statki.vcxproj -> C:\Users\Kuba\Documents\Visual Studio 2015\Projects\eLearning\Release\Statki.pdb (Full PDB)
